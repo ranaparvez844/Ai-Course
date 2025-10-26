@@ -33,4 +33,4 @@ During this course, I gained knowledge in:
 ## 👨‍🏫 Presented By
 
 - **Md. Rana Mia**                                                                                                                                                                                                          
- Student of NEUB [Dept.of -CSE]
+ Student of NEUB [Dept.of CSE]
