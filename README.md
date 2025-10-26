@@ -28,9 +28,9 @@ During this course, I gained knowledge in:
 ## 👨‍🏫 Supervisor
 
 - **Razorshi Prozzwal Talukder**                                                                                                                                                                                                          
-**  Lecturer [B.Sc. (Engg.) in CSE, NEUB]**
+ Lecturer [B.Sc. (Engg.) in CSE, NEUB]
 
 ## 👨‍🏫 Presented By
 
 - **Md. Rana Mia**                                                                                                                                                                                                          
--**  Student of NEUB [Dept.of -CSE]**
+ Student of NEUB [Dept.of -CSE]
