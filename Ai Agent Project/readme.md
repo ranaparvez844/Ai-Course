@@ -32,19 +32,22 @@ Follow these steps to run the project locally:
 
 ### **1. Clone the Repository**
 git clone https://github.com/ranaparvez844/Ai-Course.git
-cd your-repo-name
 
 ### **2. Install Dependencie** 
 
 Make sure you have **Python 3.9+** installed.
 
+
 pip install google-generativeai
 
 ### **3. Add Your Gemini API Key**
 
-(api_key="AIzaSyCw_amufGGt0poWrnNkYYlWB1XXQWJl7DM")
+(api_key="Don't share your api key, use your own API key ")
 
 ### **4. Run the Assistant**
 
 python main.py
 
+
+##  📸 Demo Screenshot
+<img width="653" height="227" alt="Image" src="https://github.com/user-attachments/assets/3d73763b-d624-41bf-92fa-f04623d4a130" />
