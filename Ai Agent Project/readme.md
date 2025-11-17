@@ -31,11 +31,10 @@ A built-in safety layer blocks inappropriate language, and a retry mechanism ens
 Follow these steps to run the project locally:
 
 ### **1. Clone the Repository**
-```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 
-## 2. Install Dependencies
+### **2. Install Dependencie** 
 
 Make sure you have **Python 3.9+** installed.
 
