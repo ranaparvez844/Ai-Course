@@ -35,7 +35,11 @@ Follow these steps to run the project locally:
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 
-### **2. akash**
+## 2. Install Dependencies
+
+Make sure you have **Python 3.9+** installed.
+
 ```bash
 pip install google-generativeai
+
 
