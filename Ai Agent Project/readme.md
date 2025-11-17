@@ -42,7 +42,7 @@ pip install google-generativeai
 
 ### **3. Add Your Gemini API Key**
 
-(api_key="Don't share your api key, use your own API key ")
+(api_key="Don't share your api key, use own API key ")
 
 ### **4. Run the Assistant**
 
