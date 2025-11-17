@@ -1,28 +1,41 @@
-# Gemini AI Chat Agent
+# ✨ Gemini AI Terminal Assistant
 
-A simple, lightweight, and fun **terminal-based AI chatbot** powered by Google's **Gemini 2.5 Flash** model using the official `google-generativeai` Python SDK.
+A simple and interactive **command-line AI assistant** powered by **Google Gemini 2.5 Flash**.  
+This project enables users to chat with an AI model directly from the terminal, featuring a typing animation effect, a basic bad-word filter, retry logic for rate limits, and persistent conversation history.
 
-This project lets you chat with Gemini AI directly from your command line with a cool typing animation effect and basic bad-word filtering for safer conversations.
+---
 
-![Gemini Chat Demo](https://i.ibb.co.com/9bYv7vK/gemini-ai-chat-demo-bd.png)  
-*(Live demo running on Windows – November 2025)*
+## 📌 Features
 
-## Features
+- 🤖 **AI chatbot** powered by *Gemini 2.5 Flash*
+- 🧠 **Maintains conversation history** throughout the session
+- ⛔ **Basic bad-word detection** and filtering
+- ⏳ **Natural typing animation** for responses
+- 🔁 **Automatic retry handler** for API rate-limit errors (HTTP 429)
+- 🎛 **Customizable generation settings** (temperature, top-p, top-k)
+- 🛑 **Easy exit commands:** `stop`, `exit`, `quit`
 
-- Real-time chat with **Gemini-2.5-Flash** (super fast & smart)  
-- Smooth **typing animation** – feels like a real person is typing  
-- Basic **bad word filter** to keep conversations clean  
-- Auto retry on rate limits (429 errors)  
-- Conversation history preserved during the session  
-- Easy to customize and extend  
+---
 
-## How to Run (Step-by-Step)
+## 🏗 How It Works
 
-### 1. Prerequisites
-- Python 3.8 or higher
-- Internet connection
+The assistant interacts with the Gemini API using the `google.generativeai` Python library.  
+User messages are stored in a conversation list, allowing the model to maintain context across multiple turns.
 
-### 2. Clone the Repository
+A built-in safety layer blocks inappropriate language, and a retry mechanism ensures stable communication when rate-limit errors occur.
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+### **1. Clone the Repository**
 ```bash
-git clone https://github.com/ranaparvez844/Ai-Course.git
-cd "Ai-Course"
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+
+### **2. Install Dependencies**
+```bash
+pip install google-generativeai
+
