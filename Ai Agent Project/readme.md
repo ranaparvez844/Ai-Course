@@ -31,14 +31,20 @@ A built-in safety layer blocks inappropriate language, and a retry mechanism ens
 Follow these steps to run the project locally:
 
 ### **1. Clone the Repository**
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/ranaparvez844/Ai-Course.git
 cd your-repo-name
 
 ### **2. Install Dependencie** 
 
 Make sure you have **Python 3.9+** installed.
 
-```bash
 pip install google-generativeai
 
+### **3. Add Your Gemini API Key**
+
+(api_key="AIzaSyCw_amufGGt0poWrnNkYYlWB1XXQWJl7DM")
+
+### **4. Run the Assistant**
+
+python main.py
 
