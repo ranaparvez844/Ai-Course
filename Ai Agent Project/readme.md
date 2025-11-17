@@ -1,4 +1,4 @@
-# ✨ Gemini AI Terminal Assistant
+# ✨ AI Agent
 
 A simple and interactive **command-line AI assistant** powered by **Google Gemini 2.5 Flash**.  
 This project enables users to chat with an AI model directly from the terminal, featuring a typing animation effect, a basic bad-word filter, retry logic for rate limits, and persistent conversation history.
